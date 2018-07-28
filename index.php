@@ -1,6 +1,6 @@
 <?php
 
-$verify_token = "EAAHKVYWmtnABAL8jfTjWMqxmZCvw4V6rfDUaMUrxzxdEUjPte5ljhyy7doRNhsMB2ylO2JWpAdrO8mO3VKvLjIFfc6n6tZAqt2c6JtERj2oJd4PGJvXZCGh5y0OHtRONUH05HqgCthPUKWBWqwGEwwLxki23MNTaFaKFszBChc9sblArmHk"; // Verify token
+$verify_token = "EAADtb8tNxAcBAAMzaiI8Akb9wqh2AIxgUTvb16zlvZCovJKftVnSAMCKxpqzoxcaMAGUEzFcZAhObjvsZAfMT4zzsHtoGuw61hFFgk6Od7ipRVK0unT8SRvrLmUNwQbXcckA2Bo7JrhEZBExdd8qK4LWh2dzYZAdCRL7D0D8JI3c47pSVbZAqZA"; // Verify token
 $token = "1234"; // Page token
 
 if (file_exists(__DIR__ . '/config.php')) {
