@@ -4,7 +4,7 @@
  */
 
 include 'config.php';
-$hub_verify_token = null;
+$hub_verify_token = true;
 
 if(isset($_REQUEST['hub_challenge'])) {
     $challenge = $_REQUEST['hub_challenge'];
