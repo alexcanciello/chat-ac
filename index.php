@@ -51,6 +51,11 @@ if(preg_match('[time|current time|now|время|час]', strtolower($message))
 
 //API Url
 $url = 'https://graph.facebook.com/v2.6/me/messages?access_token='.$access_token;
+{ 
+  "get_started":{
+    "payload":"<GET_STARTED_PAYLOAD>"
+  }
+}
 
 
 //Initiate cURL.
