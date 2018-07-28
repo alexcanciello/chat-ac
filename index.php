@@ -3,8 +3,12 @@
  * Webhook for Time Bot- Facebook Messenger Bot
  */
 
+$access_token = "EAAHKVYWmtnABAAEzZAkyowwK34Kobzsk2fDAendZB68EMWR2BatFFM3fa4aMZCzrRhGzn3pS6abO5S4MtKTDK0YZA8Rk9gvTRERmvARUEvPGMCEyjKtNXwM5LIUXY9P8wPiRVWdvZBvw6vm8e0RTnZCinZCACFkjIeO4JQGJZAvzhQbiWAjbMzPT";
+$verify_token = "fb_time_bot";
+$hub_verify_token = null;
+
 include 'config.php';
-$hub_verify_token = true;
+$hub_verify_token = null;
 
 if(isset($_REQUEST['hub_challenge'])) {
     $challenge = $_REQUEST['hub_challenge'];
