@@ -3,7 +3,7 @@
  * Webhook for Time Bot- Facebook Messenger Bot
  */
 
-$access_token = "EAAHKVYWmtnABAAEzZAkyowwK34Kobzsk2fDAendZB68EMWR2BatFFM3fa4aMZCzrRhGzn3pS6abO5S4MtKTDK0YZA8Rk9gvTRERmvARUEvPGMCEyjKtNXwM5LIUXY9P8wPiRVWdvZBvw6vm8e0RTnZCinZCACFkjIeO4JQGJZAvzhQbiWAjbMzPT";
+$access_token = "EAAEJR7nPEecBAMeSP79RmMb5Hf6av5cHc2NryfyWrYQemvJgVXEQojCY2ZBoGguCtd3lgSJzDvW0YonEdETwNkTO7XYfTYlmkmTcRgSneUUUeNDv4f6136oUTnpxkAhTef41rFPpwZCu0FW9yZASQIRNowc7xazmkeWqIyBc4PUvF0dB1RA";
 $verify_token = "fb_time_bot";
 $hub_verify_token = null;
 
