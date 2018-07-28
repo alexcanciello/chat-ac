@@ -1,6 +1,6 @@
 <?php
 // Your Page Access Token
-$access_token = "EAAHKVYWmtnABAAEzZAkyowwK34Kobzsk2fDAendZB68EMWR2BatFFM3fa4aMZCzrRhGzn3pS6abO5S4MtKTDK0YZA8Rk9gvTRERmvARUEvPGMCEyjKtNXwM5LIUXY9P8wPiRVWdvZBvw6vm8e0RTnZCinZCACFkjIeO4JQGJZAvzhQbiWAjbMzPT";
+$access_token = "EAAHKVYWmtnABAMnm3d6MkqKhQchShDcUEgD0wbZBEfvuuDxivrPAVUuqJHocGAHCYTgi4jkj46eTta76zIsI8ZAkClLV1NKXrr8X6UCmeCOgR5Ex5aO7piBi3mU4FBenmj4ZAkOZCXhSvmJKZCZCnZBvNHLSAZCdrEdIJUhdAelkxagGZArv6r7yz";
 
 // Your webhook varification token
 $verify_token = "fb_time_bot";
